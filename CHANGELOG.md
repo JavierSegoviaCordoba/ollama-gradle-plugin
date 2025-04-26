@@ -8,8 +8,10 @@
 
 ### Deprecated
 
-### Removed
-
 ### Fixed
 
+### Removed
+
 ### Updated
+
+- `gradle -> 8.14`
